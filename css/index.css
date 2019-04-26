@@ -192,6 +192,15 @@ footer nav a {
     align-items: baseline;
 }
 
-a {
-    text-decoration: none;   
+.A-top {
+    text-decoration: none;
+    color: black;
+}
+
+#nav-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
