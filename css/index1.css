@@ -218,25 +218,34 @@ footer nav a {
     flex-flow: row wrap;
     align-content: space-between;
     margin-top: 15px;
-    margin-bottom: 25px;
+    margin-bottom: 20px;
 }
 
 .strategy-sec, .how-sec, .places-sec, .colab-sec {
     display: flex;
     flex-direction: column;
-    width: 325px;
-    height: 325px;
+    width: 400px;
+    height: 450px;
 
 }
 
 .mid-img {
     height: 200px;
-    width: 200px;
+    width: 325px;
 }
 
 button {
-    height:45px;
-    width:85px;
+    height:25px;
+    width:90px;
     border-radius: 5px;
+    border: 1px solid black;
+}
+
+.last-sec {
+    margin-bottom: 30px;
+}
+
+.about {
+    margin-bottom: 25px;
 }
 
